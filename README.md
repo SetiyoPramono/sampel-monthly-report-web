@@ -60,7 +60,7 @@ src/
 
 ## Link
 
-- **Demo**: [Klik Disini](#)
+- **Demo**: [Klik Disini](https://sampel-monthly-report-web.netlify.app)
 - **Kontak**: [Mau Pesen Website Di Sini](https://wa.me/6281234567890)
 
 ## Lisensi
