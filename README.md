@@ -60,8 +60,8 @@ src/
 
 ## Link
 
-- **Demo**: <a href="https://sampel-monthly-report-web.netlify.app" target="_blank">Klik Disini</a>
-- **Kontak**: <a href="https://wa.me/6281234567890" target="_blank">Mau Pesen Website Di Sini</a>
+- **Demo**: [Klik Disini](https://sampel-monthly-report-web.netlify.app)
+- **Kontak**: [Mau Pesen Website Di Sini](https://wa.me/6281234567890)
 
 ## Lisensi
 
