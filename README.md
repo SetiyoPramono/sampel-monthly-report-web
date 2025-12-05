@@ -61,7 +61,7 @@ src/
 ## Link
 
 - **Demo**: [Klik Disini](https://sampel-monthly-report-web.netlify.app)
-- **Kontak**: [Mau Pesen Website Di Sini](https://wa.me/6281234567890)
+- **Kontak**: [Mau Pesen Website Di Sini](https://api.whatsapp.com/send?phone=6282332261924&text=Mau%20Pesan%20Website%20Min%20%F0%9F%98%81)
 
 ## Lisensi
 
